@@ -1,5 +1,6 @@
-Title: Unix Coursera Project
+Title: Unix Coursera Project  
 The guessinggame script contains the following number of  lines:
       32
+  
 The time when make was run is: 
-Sun Jul 23 22:50:05 PDT 2017
+Tue Jul 25 22:09:17 PDT 2017
